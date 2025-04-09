@@ -1,0 +1,141 @@
+import 'package:flutter/material.dart';
+
+class GetTextTheme {
+  ///### thin regular
+  static TextStyle font_8_xtraRegular =
+      TextStyle(fontSize: 8, fontWeight: FontWeight.w400);
+  static TextStyle font_9_xtraRegular =
+      TextStyle(fontSize: 9, fontWeight: FontWeight.w400);
+  static TextStyle font_10_xtraRegular =
+      TextStyle(fontSize: 10, fontWeight: FontWeight.w400);
+  static TextStyle font_11_xtraRegular =
+      TextStyle(fontSize: 11, fontWeight: FontWeight.w400);
+  static TextStyle font_12_xtraRegular =
+      TextStyle(fontSize: 12, fontWeight: FontWeight.w400);
+  static TextStyle font_13_xtraRegular =
+      TextStyle(fontSize: 13, fontWeight: FontWeight.w400);
+  static TextStyle font_14_xtraRegular =
+      TextStyle(fontSize: 14, fontWeight: FontWeight.w400);
+  static TextStyle font_15_xtraRegular =
+      TextStyle(fontSize: 15, fontWeight: FontWeight.w400);
+  static TextStyle font_16_xtraRegular =
+      TextStyle(fontSize: 16, fontWeight: FontWeight.w400);
+  static TextStyle font_17_xtraRegular =
+      TextStyle(fontSize: 17, fontWeight: FontWeight.w400);
+  static TextStyle font_18_xtraRegular =
+      TextStyle(fontSize: 18, fontWeight: FontWeight.w400);
+  static TextStyle font_19_xtraRegular =
+      TextStyle(fontSize: 19, fontWeight: FontWeight.w400);
+  static TextStyle font_20_xtraRegular =
+      TextStyle(fontSize: 20, fontWeight: FontWeight.w400);
+
+  ///###regular
+  static TextStyle font_8_regular =
+      TextStyle(fontSize: 8, fontWeight: FontWeight.w500);
+  static TextStyle font_9_regular =
+      TextStyle(fontSize: 9, fontWeight: FontWeight.w500);
+  static TextStyle font_10_regular =
+      TextStyle(fontSize: 10, fontWeight: FontWeight.w500);
+  static TextStyle font_11_regular =
+      TextStyle(fontSize: 11, fontWeight: FontWeight.w500);
+  static TextStyle font_12_regular =
+      TextStyle(fontSize: 12, fontWeight: FontWeight.w500);
+  static TextStyle font_13_regular =
+      TextStyle(fontSize: 13, fontWeight: FontWeight.w500);
+  static TextStyle font_14_regular =
+      TextStyle(fontSize: 14, fontWeight: FontWeight.w500);
+  static TextStyle font_15_regular =
+      TextStyle(fontSize: 15, fontWeight: FontWeight.w500);
+  static TextStyle font_16_regular =
+      TextStyle(fontSize: 16, fontWeight: FontWeight.w500);
+  static TextStyle font_17_regular =
+      TextStyle(fontSize: 17, fontWeight: FontWeight.w500);
+  static TextStyle font_18_regular =
+      TextStyle(fontSize: 18, fontWeight: FontWeight.w500);
+  static TextStyle font_19_regular =
+      TextStyle(fontSize: 19, fontWeight: FontWeight.w500);
+  static TextStyle font_20_regular =
+      TextStyle(fontSize: 20, fontWeight: FontWeight.w500);
+  static TextStyle font_22_regular =
+      TextStyle(fontSize: 22, fontWeight: FontWeight.w500);
+  static TextStyle font_24_regular =
+      TextStyle(fontSize: 24, fontWeight: FontWeight.w500);
+  static TextStyle font_26_regular =
+      TextStyle(fontSize: 26, fontWeight: FontWeight.w500);
+  static TextStyle font_28_regular =
+      TextStyle(fontSize: 28, fontWeight: FontWeight.w500);
+
+  ////###### medium
+
+  static TextStyle font_8_medium =
+      TextStyle(fontSize: 8, fontWeight: FontWeight.w600);
+  static TextStyle font_9_medium =
+      TextStyle(fontSize: 9, fontWeight: FontWeight.w600);
+  static TextStyle font_10_medium =
+      TextStyle(fontSize: 10, fontWeight: FontWeight.w600);
+  static TextStyle font_11_medium =
+      TextStyle(fontSize: 11, fontWeight: FontWeight.w600);
+  static TextStyle font_12_medium =
+      TextStyle(fontSize: 12, fontWeight: FontWeight.w600);
+  static TextStyle font_13_medium =
+      TextStyle(fontSize: 13, fontWeight: FontWeight.w600);
+  static TextStyle font_14_medium =
+      TextStyle(fontSize: 14, fontWeight: FontWeight.w600);
+  static TextStyle font_15_medium =
+      TextStyle(fontSize: 15, fontWeight: FontWeight.w600);
+  static TextStyle font_16_medium =
+      TextStyle(fontSize: 16, fontWeight: FontWeight.w600);
+  static TextStyle font_17_medium =
+      TextStyle(fontSize: 17, fontWeight: FontWeight.w600);
+  static TextStyle font_18_medium =
+      TextStyle(fontSize: 18, fontWeight: FontWeight.w600);
+  static TextStyle font_19_medium =
+      TextStyle(fontSize: 19, fontWeight: FontWeight.w600);
+  static TextStyle font_20_medium =
+      TextStyle(fontSize: 20, fontWeight: FontWeight.w600);
+  static TextStyle font_22_medium =
+      TextStyle(fontSize: 22, fontWeight: FontWeight.w600);
+  static TextStyle font_24_medium =
+      TextStyle(fontSize: 24, fontWeight: FontWeight.w600);
+  static TextStyle font_26_medium =
+      TextStyle(fontSize: 26, fontWeight: FontWeight.w600);
+  static TextStyle font_28_medium =
+      TextStyle(fontSize: 28, fontWeight: FontWeight.w600);
+
+  //  bold font
+
+  static TextStyle font_8_bold =
+      TextStyle(fontSize: 8, fontWeight: FontWeight.w700);
+  static TextStyle font_9_bold =
+      TextStyle(fontSize: 9, fontWeight: FontWeight.w700);
+  static TextStyle font_10_bold =
+      TextStyle(fontSize: 10, fontWeight: FontWeight.w700);
+  static TextStyle font_11_bold =
+      TextStyle(fontSize: 11, fontWeight: FontWeight.w700);
+  static TextStyle font_12_bold =
+      TextStyle(fontSize: 12, fontWeight: FontWeight.w700);
+  static TextStyle font_13_bold =
+      TextStyle(fontSize: 13, fontWeight: FontWeight.w700);
+  static TextStyle font_14_bold =
+      TextStyle(fontSize: 14, fontWeight: FontWeight.w700);
+  static TextStyle font_15_bold =
+      TextStyle(fontSize: 15, fontWeight: FontWeight.w700);
+  static TextStyle font_16_bold =
+      TextStyle(fontSize: 16, fontWeight: FontWeight.w700);
+  static TextStyle font_17_bold =
+      TextStyle(fontSize: 17, fontWeight: FontWeight.w700);
+  static TextStyle font_18_bold =
+      TextStyle(fontSize: 18, fontWeight: FontWeight.w700);
+  static TextStyle font_19_bold =
+      TextStyle(fontSize: 19, fontWeight: FontWeight.w700);
+  static TextStyle font_20_bold =
+      TextStyle(fontSize: 20, fontWeight: FontWeight.w700);
+  static TextStyle font_22_bold =
+      TextStyle(fontSize: 22, fontWeight: FontWeight.w700);
+  static TextStyle font_24_bold =
+      TextStyle(fontSize: 24, fontWeight: FontWeight.w700);
+  static TextStyle font_26_bold =
+      TextStyle(fontSize: 26, fontWeight: FontWeight.w700);
+  static TextStyle font_28_bold =
+      TextStyle(fontSize: 28, fontWeight: FontWeight.w700);
+}
